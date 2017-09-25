@@ -3,7 +3,7 @@ package com.sample.http.identifiers;
 import io.buoyant.linkerd.IdentifierInitializer;
 
 /***
- * Initializes all the strati rs components needed for policy
+ * Initializes all the classes & components needed for authentication
  * @author smenon2
  */
 public class SampleInitializer extends IdentifierInitializer {
