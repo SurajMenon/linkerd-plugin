@@ -7,7 +7,7 @@ import io.buoyant.linkerd.ResponseClassifierConfig;
 import scala.PartialFunction;
 
 /**
- * StratiClassifierConfig defines the structure of the config block for this
+ * SampleClassifierConfig defines the structure of the config block for this
  * plugin and constructs the response classifier.
  */
 public class SampleClassifierConfig extends ResponseClassifierConfig {
