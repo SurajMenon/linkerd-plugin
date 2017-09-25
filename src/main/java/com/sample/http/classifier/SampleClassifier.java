@@ -15,8 +15,8 @@ import com.twitter.finagle.service.ResponseClass$;
 import com.twitter.util.Function;
 
 /**
- * HeaderClassifier is an HTTP response classifier that classifies responses
- * based on wheather they are a SOAException or not.
+ * SampleClassifier is an HTTP response classifier that classifies responses
+ * based on wheather they is an Exception or not.
  * If they are then this updates the status code & error msg
  * 
  */
